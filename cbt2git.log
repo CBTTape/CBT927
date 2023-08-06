@@ -1,0 +1,5 @@
+2023-08-06 08:30:22.266474 - Initialized conversion of CBT927
+2023-08-06 08:30:22.286667 - Received CBT.V505.FILE927.PDS from FILE927.XMI 
+2023-08-06 08:30:22.288800 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE927.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:30:22.289780 - Found @FILE927.txt (text/plain) in CBT.V505.FILE927.PDS, moved to PDS/@FILE927
+2023-08-06 08:30:22.290819 - Found PRMEVSAM.txt (text/plain) in CBT.V505.FILE927.PDS, moved to PDS/PRMEVSAM
